@@ -1,0 +1,8 @@
+.beam-scene canvas {
+  cursor: grab;
+  touch-action: none;
+}
+
+.beam-scene canvas:active {
+  cursor: grabbing;
+}
